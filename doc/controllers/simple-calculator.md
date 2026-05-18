@@ -30,6 +30,8 @@ def calculate(self,
 
 ## Response Type
 
+**200**
+
 `float`
 
 ## Example Usage
