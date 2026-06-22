@@ -18,7 +18,9 @@ Possible operators are sum, subtract, multiply, divide
 
 ## Example
 
-```
-SUM
+```python
+from apimaticcalculator.models.operation_type_enum import OperationTypeEnum
+
+operation_type = OperationTypeEnum.MULTIPLY
 ```
 
